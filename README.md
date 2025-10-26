@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, I'm Ayush Linghwal
+**A passionate Data Engineer & Analytics**
 
 
 ## 🌐 Socials:
